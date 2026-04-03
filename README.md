@@ -105,3 +105,15 @@ Open `agents.ipynb` in VS Code or Jupyter and execute the cells from top to bott
 - The notebook uses `create_retriever_tool`, so the retriever must be an actual retriever object, not the `as_retriever` method itself.
 - `AgentExecutor.invoke(...)` returns a dictionary, so the final answer should be accessed with `['output']`.
 - If the web loader or API tools fail, check network access and your API key first.
+
+---
+
+<div align="center">
+
+**Built with ❤️ by [Asad Hussain](https://www.asadhussain.in/)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-snackoverflowasad-181717?style=for-the-badge&logo=github)](https://github.com/snackoverflowasad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Hussain-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asad-hussain-765502319/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadhussain.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.asadhussain.in/)
+
+</div>
