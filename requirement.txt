@@ -1,0 +1,15 @@
+langchain-openai
+langchain-core
+python-dotenv
+langserve
+pypdf
+faiss-cpu
+langchain-classic
+streamlit
+sse-starlette
+langchain-community
+bs4
+uvicorn
+ipykernel
+wikipedia
+arxiv
